@@ -1,0 +1,25 @@
+/* styles.css */
+.footer {
+    background-color: #333; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    padding: 50px 0; /* Espaciado interior */
+  }
+  
+  .footer h4 {
+    color: #fff; /* Color del título */
+    margin-bottom: 20px; /* Espaciado inferior para el título */
+  }
+  
+  .footer ul.contact-info {
+    list-style: none; /* Quitar viñetas de la lista */
+    padding: 0; /* Quitar relleno */
+  }
+  
+  .footer ul.contact-info li {
+    margin-bottom: 10px; /* Espaciado inferior para cada elemento de la lista */
+  }
+  
+  .footer ul.contact-info li i {
+    margin-right: 10px; /* Espaciado derecho para los iconos */
+  }
+  
